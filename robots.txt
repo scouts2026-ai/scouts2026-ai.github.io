@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# IMPORTANT: after the site is live, replace YOUR-LIVE-URL with the real website URL.
+# Example:
+# Sitemap: https://YOUR-LIVE-URL/sitemap.xml
